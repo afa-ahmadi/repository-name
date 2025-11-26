@@ -233,6 +233,8 @@ Remove the file from Git tracking but keep it on your computer.
 
 ```
 git rm --cached password.txt
+git add .gitignore
+git commit -m "Remove password.txt from tracking and add to gitignore"
 ```
 
 ### Task 7.3: Add to .gitignore and Commit

@@ -107,7 +107,8 @@
 - Listing and creating branches
   ```
   git branch
-  git branch new-branch-name / git checkout -b new-branch-name
+  git branch new-branch-name          # create branch
+  git checkout -b new-branch-name     # create and switch
   ```
 - Switching between branches
   ```
