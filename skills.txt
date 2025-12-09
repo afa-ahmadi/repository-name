@@ -1,0 +1,9 @@
+pyhton 
+c/cpp
+html/css 
+
+<<<<<<< feature/add-skills
+skill.txt
+=======
+skill.txt
+>>>>>>> main
